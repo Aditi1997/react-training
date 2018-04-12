@@ -1,14 +1,4 @@
-// const CHANGE_RATING_TYPE = 'CHANGE_RATING';
 
-/*export function changeRating ({ id, rating }) {
-  return {
-    type: CHANGE_RATING,
-    payload: {
-    id,
-    rating,
-    }
-}
-}*/
 
 import { fetchMovies } from '../services/moviesApi';
 
